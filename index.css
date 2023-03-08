@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  background-color: aqua;
+}
+a {
+  padding-bottom: 2px;
+  text-decoration: underline;
+}
+.card {
+  margin-bottom: 40px;
+}
+.card-body {
+  text-align: center;
+}
+.card-body i {
+  font-size: 50px;
+  color: skyblue;
+}
+.text span {
+  font-size: 14px;
+  color: rgb(90, 86, 86);
+}
